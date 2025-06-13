@@ -5,7 +5,8 @@ import (
 	"fmt"
 )
 
-// import _ "belajar-golang-dasar/database"
+// Blank Identifier
+// import _ "belajar-golang-dasar/internal"
 
 func PackageInitialization() {
 	result := database.GetDatabase()

@@ -1,6 +1,5 @@
 package main
 
-// import "belajar-golang-dasar/konversiTipeData"
 import "fmt"
 
 func main() {
@@ -190,4 +189,7 @@ func main() {
 
 	// package regexp
 	// PackageRegexp()
+
+	// Custom Error
+	CustomError()
 }
